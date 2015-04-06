@@ -1,0 +1,5 @@
+name: ZBungeeControl
+author: johnking, michidk, xxmicloxx
+version: 1.0
+main: net.fusemc.zbungeecontrol.ZBungeeControl
+depends: [ZBungeePlugin]
